@@ -5,10 +5,9 @@
 <h3 align="center">A Passionate Backend Developer from India</h3>
 
 <img align="right" alt="coding" src="https://private-user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width="400" />
-
-- 🔭 I’m currently working on a **Gemini_AI_Appliction**  
-- 🌱 I’m currently learning **DevOps** and enhancing my **MERN stack** skills  
-- 💬 Ask me about **Java, Backend Development **  
+  
+- 🌱 I’m currently learning **DevOps**  
+- 💬 Ask me about **Backend Development **  
 - 📫 Reach me at: **samprem888111@gmail.com**  
 - ⚡ Fun fact: I love to play chess in my spare time 🧠
 
