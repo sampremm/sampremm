@@ -1,15 +1,21 @@
-###
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Masthead" />
 
 <h1 align="center">Hi, I'm Sam Prem</h1>
+<h3 align="center">🎓 B.Tech in Electrical and Electronics Engineering</h3>
+<h3 align="center">💻 Full-Stack Developer | Open Source Enthusiast | Tech Learner</h3>
 <h3 align="center">A Passionate Backend Developer from India</h3>
 
 <img align="right" alt="coding" src="https://private-user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width="400" />
-  
-- 🌱 I’m currently learning **DevOps**  
-- 💬 Ask me about **Backend Development **  
+
+- 🛠️ Skilled in **Java, JavaScript, Node.js, React.js, Express.js, TailwindCSS, MySQL, MongoDB, Git, GitHub, Postman, Docker, AWS**  
+- 🌐 Developed projects such as:  
+  - **Vercel Clone**  
+  - **StreamYard Clone**  
+  - **Multithreaded Web Server**  
+- 📝 Published a journal article on **Maximum Power Point Tracking using Cuckoo Search Algorithm (CSA)**  
+- 🎯 Aims to contribute to impactful open-source projects and explore cutting-edge backend technologies  
 - 📫 Reach me at: **samprem888111@gmail.com**  
-- ⚡ Fun fact: I love to play chess in my spare time 🧠
+- ⚡ Fun fact: I love to play chess in my spare time 🧠  
 
 ---
 
@@ -22,7 +28,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sam-prem" height="30" width="40" />
   </a>  
   <a href="https://instagram.com/samprem__" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sam_prem_" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samprem__" height="30" width="40" />
   </a>  
 </p>
 
@@ -78,8 +84,4 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sampremm&show_icons=true&locale=en&layout=compact" alt="sampremm" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sampremm&show_icons=true&locale=en" alt="sampremm" />
 </p>
