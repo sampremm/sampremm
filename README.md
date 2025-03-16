@@ -1,7 +1,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Masthead" />
 
 <h1 align="center">Hi, I'm Sam Prem</h1>
-<h3 align="center">🎓 B.Tech in Electrical and Electronics Engineering</h3>
 <h3 align="center">💻 Full-Stack Developer | Open Source Enthusiast | Tech Learner</h3>
 <h3 align="center">A Passionate Backend Developer from India</h3>
 
