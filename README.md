@@ -6,12 +6,8 @@
 
 <img align="right" alt="coding" src="https://private-user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width="400" />
 
-- 🛠️ Skilled in **Java, JavaScript, Node.js, React.js, Express.js, TailwindCSS, MySQL, MongoDB, Git, GitHub, Postman, Docker, AWS**  
-- 🌐 Developed projects such as:  
-  - **Vercel Clone**  
-  - **StreamYard Clone**  
-  - **Multithreaded Web Server**  
-- 📝 Published a journal article on **Maximum Power Point Tracking using Cuckoo Search Algorithm (CSA)**  
+- 🛠️ Skilled in **Java, JavaScript, Node.js, React.js, Express.js, TailwindCSS, MySQL, MongoDB, Git, GitHub, Postman, Docker, AWS**    
+- 📝 Published a journal article on **Maximum Power Point Tracking using Cuckoo Search Algorithm (CSA)** https://drive.google.com/file/d/1QUZ3L33mAqRigHwQnwg__ZOjVhmEPucZ/view
 - 🎯 Aims to contribute to impactful open-source projects and explore cutting-edge backend technologies  
 - 📫 Reach me at: **samprem888111@gmail.com**  
 - ⚡ Fun fact: I love to play chess in my spare time 🧠  
