@@ -1,82 +1,75 @@
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Masthead" />
 
-<h1 align="center">Hi, I'm Sam Prem</h1>
-<h3 align="center">💻 Full-Stack Developer | Open Source Enthusiast | Tech Learner</h3>
-<h3 align="center">A Passionate Backend Developer from India</h3>
+<h1 align="center">Hi 👋, I'm Sam </h1>
+<h3 align="center">💻 Aspiring Software Developer | Backend Enthusiast | Tech Enthusiast |</h3>
+
+
+---
 
 <img align="right" alt="coding" src="https://private-user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width="400" />
 
-- 🛠️ Skilled in **Java, JavaScript, Node.js, React.js, Express.js, TailwindCSS, MySQL, MongoDB, Git, GitHub, Postman, Docker, AWS**    
-- 📝 Published a journal article on **Maximum Power Point Tracking using Cuckoo Search Algorithm (CSA)** https://drive.google.com/file/d/1QUZ3L33mAqRigHwQnwg__ZOjVhmEPucZ/view
-- 🎯 Aims to contribute to impactful open-source projects and explore cutting-edge backend technologies  
-- 📫 Reach me at: **samprem888111@gmail.com**  
-- ⚡ Fun fact: I love to play chess in my spare time 🧠  
+- 🛠️ **Core Stack:** Java, JavaScript, Node.js, Express.js, React.js, TailwindCSS, MySQL, MongoDB, Redis, Docker, AWS  
+- 📝 **Publication:** [Maximum Power Point Tracking using Cuckoo Search Algorithm (CSA)](https://drive.google.com/file/d/1QUZ3L33mAqRigHwQnwg__ZOjVhmEPucZ/view)  
+- 🚀 **Projects:** Uber Clone • Scalable URL Shortener • Dockerized Todo App • Vercel Clone • StreamYard Clone  
+- 🎯 **Goal:** Contribute to impactful open-source projects and master modern backend technologies  
+- ⚡ **Fun fact:** I love to play chess in my spare time 🧠  
+- 📫 **Reach me at:** samprem888111@gmail.com  
 
 ---
 
-<h3 align="left">Connect with me:</h3>  
-<p align="left">  
-  <a href="https://twitter.com/sampremm" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sampremm" height="30" width="40" />
-  </a>  
-  <a href="https://linkedin.com/in/sam-prem" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sam-prem" height="30" width="40" />
-  </a>  
-  <a href="https://instagram.com/samprem__" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samprem__" height="30" width="40" />
-  </a>  
+<h3 align="center">🌐 Connect with me:</h3>
+<p align="center">
+  <a href="https://twitter.com/sampremm" target="blank"><img src="https://img.shields.io/twitter/follow/sampremm?logo=twitter&style=for-the-badge" alt="Twitter" /></a>
+  <a href="https://linkedin.com/in/samprem1" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/samprem__" target="blank"><img src="https://img.shields.io/badge/-Instagram-critical?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+  <a href="https://sam-portfolio-ashy.vercel.app/" target="blank"><img src="https://img.shields.io/badge/-Portfolio-success?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>  
-<p align="left">  
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">  
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>  
-  </a>  
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>  
-  </a>  
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>  
-  </a>  
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">  
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>  
-  </a>  
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>  
-  </a>  
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>  
-  </a>  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>  
-  </a>  
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">  
-    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="40" height="40"/>  
-  </a>  
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">  
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>  
-  </a>  
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>  
-  </a>  
-  <a href="https://postman.com" target="_blank" rel="noreferrer">  
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>  
-  </a>  
-  <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer">  
-    <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" width="40" height="40"/>  
-  </a>  
-  <a href="https://redis.io" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>  
-  </a>  
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">  
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/>  
-  </a>  
-</p>
-
----
+<h3 align="center">🛠 Languages & Tools</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sampremm&show_icons=true&locale=en&layout=compact" alt="sampremm" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" />
 </p>
+
+---
+
+<h3 align="center">📊 GitHub Stats & Activity</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sampremm&show_icons=true&theme=radical" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sampremm&theme=radical" alt="GitHub Streak" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sampremm&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-contribution-stats.vercel.app/api/?username=sampremm" alt="Contributions Graph" />
+</p>
+
+---
+
+<h3 align="center">✨ Highlighted Projects</h3>
+
+- 🔗 **URL Shortener** – Shorten, track analytics, Redis caching, responsive React frontend  
+- 📦 **Dockerized Todo App** – Node.js, Prisma, PostgreSQL, JWT auth
+- 🚕 **Uber Clone** – Real-time ride-hailing app with secure auth & Google Maps API  
+- ☁️ **Vercel Clone** – Deployment automation & responsive UI  
+- 🎥 **StreamYard Clone** – Live streaming application 
+
+---
+
+<p align="center">⭐️ From <a href="https://github.com/sampremm">Sam Prem Kumar Thalla</a></p>
