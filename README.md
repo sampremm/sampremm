@@ -10,7 +10,6 @@
 
 - 🛠️ **Core Stack:** Java, JavaScript, Node.js, Express.js, React.js, TailwindCSS, MySQL, MongoDB, Redis, Docker, AWS  
 - 📝 **Publication:** [Maximum Power Point Tracking using Cuckoo Search Algorithm (CSA)](https://drive.google.com/file/d/1QUZ3L33mAqRigHwQnwg__ZOjVhmEPucZ/view)  
-- 🚀 **Projects:** Uber Clone • Scalable URL Shortener • Dockerized Todo App • Vercel Clone • StreamYard Clone  
 - 🎯 **Goal:** Contribute to impactful open-source projects and master modern backend technologies  
 - ⚡ **Fun fact:** I love to play chess in my spare time 🧠  
 - 📫 **Reach me at:** samprem888111@gmail.com  
